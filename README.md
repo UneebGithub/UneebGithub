@@ -34,6 +34,7 @@ public class UneebUllah : Developer
     public string[] Frameworks => { ".NET", "ASP.NET Core", "Unity" };
     public string[] Databases  => { "MS SQL Server", "MySQL", "Firebase" };
     public string CurrentProject => "Pharmacy Management System 💊";
+    public string TotalExperience => "1.4+ Years";
     public string Learning       => "ASP.NET Core — going deeper every day";
     public string Email          => "khawajauneebullah@gmail.com";
     public string FunFact        => "I debug code at 3 AM and call it productivity.";
@@ -88,6 +89,48 @@ public class UneebUllah : Developer
 
 ---
 
+
+## 🎓 Final Year Project (FYP)
+
+### 🚗 QR-Based Toll Plaza Vehicle Monitoring & Tracking System
+
+**Overview:**  
+A smart toll plaza system designed to automate toll collection, monitor vehicle movement, and enhance security using QR codes, AI cameras, and real-time tracking.
+
+**Features:**
+- **QR Code System:** Unique QR code for each vehicle, fast scanning at toll plazas
+- **Number Plate Recognition (ANPR):** AI camera detects & verifies number plates
+- **Automated Toll Payment:** Toll deducted automatically
+- **Live Vehicle Tracking:** Real-time GPS-based tracking
+- **Admin Dashboard:** Monitor vehicle activity & view records
+
+**Smart Features:**
+- Live Speed Detection
+- Auto Challan & FIR Generation (simulated)
+- AI-based Suspicious Activity Detection
+- Rest Area Tracking (Tracking OFF/ON)
+
+**Mobile App (User Side):**
+- Registration & Login
+- Vehicle Registration (QR linked)
+- Toll & Challan History
+- Travel History & Token Management
+- Car Ownership Transfer & Feedback
+
+**Technologies Used:**
+- Frontend: Flutter & .net
+- Backend:  C# 
+- Database: Firebase / MySQL 
+- AI: OpenCV / TensorFlow / Yolov8
+- GPS: Google Maps API
+- ANPR & QR Scanner: AI & Camera-based
+
+**Expected Outcomes:**
+- Automated toll system
+- Improved vehicle security
+- Real-time monitoring & smart traffic analysis
+- Reduced manual work
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,7 +149,6 @@ public class UneebUllah : Developer
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uneebgithub&theme=tokyonight&no-frame=true&margin-w=4&column=7" />
 </div>
-
 ---
 
 ## 🌐 Connect With Me
