@@ -124,7 +124,7 @@ public class UneebUllah : Developer
 ---
 
 <div align="center">
-💼 35+ Projects Built with .NET — View All
-"First, solve the problem. Then, write the code."
+💼 35+ Projects Built with .NET — View All <br>
+"First, solve the problem. Then, write the code."<br>
 ⭐ If you like my work, consider giving a star to my repos! ⭐
 </div>
