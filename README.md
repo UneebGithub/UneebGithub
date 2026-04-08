@@ -1,47 +1,132 @@
-<h1 align="center">Hi 👋, I'm Uneeb Ullah</h1>
-<h3 align="center">A passionate .Net developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uneebgithub&label=Profile%20views&color=0e75b6&style=flat" alt="uneebgithub" /> </p>
+```
+██╗   ██╗███╗   ██╗███████╗███████╗██████╗
+██║   ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
+██║   ██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
+╚██████╔╝██║ ╚████║███████╗███████╗██████╔╝
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═════╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/UneebGithub" alt="uneebgithub" /></a> </p>
+# 👨‍💻 Uneeb Ullah
 
-<p align="left"> <a href="https://twitter.com/uneebullah" target="blank"><img src="https://img.shields.io/twitter/follow/uneebullah?logo=twitter&style=for-the-badge" alt="uneebullah" /></a> </p>
+### Full-Stack .NET Developer · Pakistan 🇵🇰
 
-- 🔭 I’m currently working on **Pharmacy management system**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=.NET+%7C+C%23+%7C+ASP.NET+Developer;Unity+Game+Developer;Always+Building+Something+Cool)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Asp.Net**
+[![Profile Views](https://komarev.com/ghpvc/?username=uneebgithub&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/UneebGithub)
+[![GitHub followers](https://img.shields.io/github/followers/uneebgithub?label=Followers&style=flat-square&color=6366f1)](https://github.com/UneebGithub)
+[![Twitter Follow](https://img.shields.io/twitter/follow/uneebullah?style=flat-square&color=6366f1)](https://twitter.com/uneebullah)
 
-- 🤝 Collaborative Development **QR-based Toll Plaza Vehicle Monitoring and Tracking System**
+</div>
 
-- 🤝 I’m looking for help with **AI Medical Consultation**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/UneebGithub](https://github.com/UneebGithub)
+## 🧠 About Me
 
-- 👨‍💻 All of my projects Videos are available at [https://www.instagram.com/uneebullah322/](https://www.instagram.com/uneebullah322/)
+```csharp
+public class UneebUllah : Developer
+{
+    public string Name        => "Uneeb Ullah";
+    public string Location    => "Pakistan 🇵🇰";
+    public string[] Languages => { "C#", "C++", "Java", "HTML/CSS" };
+    public string[] Frameworks => { ".NET", "ASP.NET Core", "Unity" };
+    public string[] Databases  => { "MS SQL Server", "MySQL", "Firebase" };
+    public string CurrentProject => "Pharmacy Management System 💊";
+    public string Learning       => "ASP.NET Core — going deeper every day";
+    public string Email          => "khawajauneebullah@gmail.com";
+    public string FunFact        => "I debug code at 3 AM and call it productivity.";
+}
+```
 
-- 💬 Ask me about **.Net, C# ,Unity**
+---
 
-- 📫 How to reach me **khawajauneebullah@gmail.com**
+## 🚀 What I'm Up To
 
-- 📄 Know about my experiences [https://github.com/UneebGithub/CV](https://github.com/UneebGithub/CV)
+| 🔭 | **Building** | Pharmacy Management System |
+|----|---|---|
+| 🌱 | **Learning** | ASP.NET Core |
+| 🤝 | **Collaborating On** | QR-Based Toll Plaza Vehicle Monitoring & Tracking System |
+| 🔍 | **Seeking Help With** | AI Medical Consultation System |
+| 💬 | **Ask Me About** | `.NET` · `C#` · `Unity` |
+| 📫 | **Reach Me At** | khawajauneebullah@gmail.com |
 
-- ⚡ Fun fact **Nothing**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/uneebullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uneebullah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uneeb ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uneeb ullah" height="30" width="40" /></a>
-<a href="https://fb.com/uneeb ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uneeb ullah" height="30" width="40" /></a>
-<a href="https://instagram.com/uneebullah322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uneebullah322" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khawajauneebullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khawajauneebullah" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/UNEEB ULLAH"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="UNEEB ULLAH" /></a><a href="https://ko-fi.com/UNEEB"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="UNEEB" /></a></p><br><br>
+### Frameworks & Tools
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uneebgithub&show_icons=true&locale=en&layout=compact" alt="uneebgithub" /></p>
+### Databases & Cloud
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+---
 
+## 🤝 Collaborations
+
+> 🛣️ **QR-Based Toll Plaza Vehicle Monitoring & Tracking System**  
+> Smart infrastructure project — real-time vehicle tracking using QR codes.
+
+> 🏥 **AI Medical Consultation System** *(Looking for contributors!)*  
+> Aiming to make healthcare more accessible through AI.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uneebgithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uneebgithub&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uneebgithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uneebgithub&theme=tokyonight&no-frame=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UneebGithub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uneeb-ullah)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uneebullah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uneebullah322)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/khawajauneebullah)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+⭐ **If you like my work, consider giving a star to my repos!** ⭐
+
+</div>
